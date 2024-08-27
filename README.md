@@ -74,3 +74,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 - Thanks to the OpenGL community for providing valuable resources and tutorials.
 ```
 
+
+## Contact 📝
+Prajwal Marapur  
+ [prajwalmarapur1@gmail.com](mailto:prajwalmarapur1@gmail.com "prajwalmarapur1@gmail.com")
+ [LinkedIn](https://www.linkedin.com/in/prajwal-m-615984280/) 
